@@ -1,0 +1,73 @@
+.container{
+    width: 25%;
+    height: 25%;
+   
+}
+
+.centrar{
+    display: block;
+    margin: auto;
+}
+
+.interno{
+    background-color: honeydew;
+    border: grey solid 10px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+h2{
+    color: #1F1F1F;
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.datos{
+    border: grey solid 2px;
+    border-radius: 10px;
+
+    font-family:'Roboto', sans-serif; 
+    letter-spacing: 2px;
+    
+    width: 250px;
+    height:40px ;
+
+}
+
+.enviar{
+    width: 250px;
+    height:50px ;
+
+    color: rgb(255, 251, 251);
+    text-shadow: 0px 0px 6px rgb(253, 243, 243);
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+
+
+    background-color: rgb(19, 5, 216);
+    border: black solid 2px;
+    border-radius: 10px;
+
+}
+
+.enviar:hover{
+    background-color: rgb(37, 37, 133);
+}
+
+.boton{
+    border: grey solid 1px;
+    color: grey;
+    letter-spacing: 1px;
+
+}
+
+.boton:hover{
+    background-color: pink;
+}
